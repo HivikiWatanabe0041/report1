@@ -6,7 +6,7 @@
 
 
 cbr250<br>
-![this is image](cbr250.jpg)
+![this is image](cbr250.jpg)<br><br>
 ninja250<br>
 ![this is image](Ninja250.jpg)<br><br>
 <br><br>
