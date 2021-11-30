@@ -5,7 +5,7 @@
 cbr250
 ![this is image](cbr250.jpg)
 ninja250
-![this is image](https://www.l-bike.com/lbcms/wp-content/uploads/2020/03/LB084_KAWASAKI_Ninja250_01.jpg)
+![this is image](Ninja250.jpg)
 gsx250r
 ![this is image](https://response.jp/imgs/thumb_h2/1352593.jpg)
 yzf-r25
