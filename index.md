@@ -2,8 +2,10 @@
 
 20120041 渡邉響です。
 最近バイクの免許を取得中です。
+<br><br>
 cbr250
 ![this is image](cbr250.jpg)
+<br><br>
 ninja250
 ![this is image](Ninja250.jpg)
 gsx250r
