@@ -9,7 +9,7 @@ ninja250
 gsx250r
 ![this is image](gsx250r.jpg)
 yzf-r25
-![this is image](https://car.motor-fan.jp/images/articles/10008733/big_main10008733_20190319180216000000.JPG)
+![this is image](yzf-r25.jpg)
 
 暫定僕は個のバイクにしようと思っています
 [確認](https://www.l-bike.com/lbcms/wp-content/uploads/2020/03/LB084_KAWASAKI_Ninja250_01.jpg) 
