@@ -7,7 +7,7 @@ cbr250
 ninja250
 ![this is image](Ninja250.jpg)
 gsx250r
-![this is image](https://response.jp/imgs/thumb_h2/1352593.jpg)
+![this is image](gsx250r.jpg)
 yzf-r25
 ![this is image](https://car.motor-fan.jp/images/articles/10008733/big_main10008733_20190319180216000000.JPG)
 
