@@ -5,10 +5,10 @@
 <br><br>
 
 
-cbr250<br>!
-[this is image](cbr250.jpg)
-ninja250<br>!
-[this is image](Ninja250.jpg)<br><br>
+cbr250<br>
+![this is image](cbr250.jpg)
+ninja250<br>
+![this is image](Ninja250.jpg)<br><br>
 <br><br>
 gsx250r<br>
 ![this is image](gsx250r.jpg)<br><br>
