@@ -1,10 +1,10 @@
 # レポート１ その２
 
 20120041 渡邉響です。
-最近バイクの免許を取得中です。
+最近バイクの免許を取得しました。
 <br><br>
 
-| バイク | 250ccフルカウル  |
+|   バイク    ||
 | :---: | :---: |
 | cbr250<br>![this is image](cbr250.jpg) | ninja250<br>![this is image](Ninja250.jpg) |
 | gsx250r<br>![this is image](gsx250r.jpg)<br><br> | yzf-r25<br>![this is image](yzf-r25.jpg) |
